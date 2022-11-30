@@ -32,16 +32,6 @@ This Game uses C++ as it's Foundation and has the following features,
 ![App Screenshot](https://raw.githubusercontent.com/imharris24/Snake-CPP/main/screenshot/scr04.png?token=GHSAT0AAAAAABZQSA2DTAZJ6GSS4HT3MI6CY3J5PAA)
 
 
-## Related
-
-Here are some related projects,
-
-[TicTacToe](https://github.com/imharris24/TicTacToe-CPP)
-
-[Hangman](https://github.com/imharris24/Hangman-CPP)
-
-[Binary Calculator](https://github.com/imharris24/BinaryCalculator-CPP)
-
 
 ## Author
 
